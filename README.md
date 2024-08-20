@@ -1,6 +1,6 @@
 # TesteBluelogic
 
-Este repositório contém o projeto para o teste da BlueLogic. O projeto foi desenvolvido utilizando React e tem como objetivo demonstrar habilidades na criação de uma aplicação front-end moderna.
+Este repositório contém o projeto para o teste da BlueLogic.
 
 ## Funcionalidades
 
