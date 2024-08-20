@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# TesteBluelogic
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositório contém o projeto para o teste da BlueLogic. O projeto foi desenvolvido utilizando React e tem como objetivo demonstrar habilidades na criação de uma aplicação front-end moderna.
 
-## Available Scripts
+## Funcionalidades
 
-In the project directory, you can run:
+- **Criação de Grupos**: Permite a criação de grupos personalizados.
+- **Upload de Arquivos**: Upload de arquivos `.txt` contendo contatos.
+- **Exibição de Contatos**: Exibição dos contatos importados juntamente com seus respectivos grupos.
 
-### `npm start`
+## Tecnologias Utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Bootstrap**: Framework CSS para estilização responsiva e moderna.
+- **Node.js**: Ambiente de execução JavaScript no servidor.
+- **Browserslist**: Utilizado para determinar quais navegadores o projeto deve suportar.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalação
 
-### `npm test`
+Para rodar este projeto localmente, siga os passos abaixo:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/DevaGabs/TesteBluelogic.git
+2. Navegue até o diretório do projeto:
+    cd TesteBluelogic
+3. Instale as dependências:
+   npm install
+4. Inicie o servidor de desenvolvimento:
+   npm start
+O aplicativo estará disponível em http://localhost:3000.
 
-### `npm run build`
+## Como Contribuir
+Se você deseja contribuir com este projeto, siga as etapas abaixo:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Faça um fork do repositório.
+Crie uma nova branch (git checkout -b minha-feature).
+Faça as alterações necessárias e adicione os commits (git commit -m 'Minha nova feature').
+Envie para o repositório remoto (git push origin minha-feature).
+Abra um Pull Request.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Licença
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este projeto é licenciado sob a MIT License.
