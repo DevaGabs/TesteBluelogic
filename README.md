@@ -4,16 +4,23 @@ Este repositório contém o projeto para o teste da BlueLogic. O projeto foi des
 
 ## Funcionalidades
 
-- **Criação de Grupos**: Permite a criação de grupos personalizados.
-- **Upload de Arquivos**: Upload de arquivos `.txt` contendo contatos.
-- **Exibição de Contatos**: Exibição dos contatos importados juntamente com seus respectivos grupos.
+- **Criação de Postagens:** Osusuários podem criar novas postagens de blog com título econteúdo.
+- **Edição de Postagens:** Postagens existentes podem ser editadas pelos usuários.
+- **Visualização de Postagens:** As postagens podem ser visualizadas em uma interface limpa e amigável.
 
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **HTML5**
+- **Css3**
+- **JavaScript**
 - **Bootstrap**: Framework CSS para estilização responsiva e moderna.
+- **Express.js**
+- **Firebase**
 - **Node.js**: Ambiente de execução JavaScript no servidor.
 - **Browserslist**: Utilizado para determinar quais navegadores o projeto deve suportar.
+- **Git**
+- **API REST**
 
 ## Instalação
 
